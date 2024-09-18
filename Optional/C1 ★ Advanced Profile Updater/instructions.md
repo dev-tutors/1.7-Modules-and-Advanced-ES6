@@ -20,8 +20,6 @@ function updateProfile(data) {
 
 ### **Example Inputs and Outputs**
 
-Provide example inputs and outputs to give students a clear idea of what to expect from their program.
-
 ```js
 // == Example 1 ==
 // console.log(updateProfile("John", 25, "Swimming", "Hiking"));
